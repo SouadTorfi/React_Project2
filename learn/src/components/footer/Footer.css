@@ -1,0 +1,49 @@
+.css-1xqxvb3-MuiTypography-root {
+  margin-left: 15% !important;
+  margin-right: 15% !important;
+  margin-bottom: 20px !important;
+}
+
+.css-1ps4owl-MuiTypography-root-MuiLink-root {
+  color: #000 !important;
+  text-decoration: none !important;
+  font-weight: 400 !important;
+}
+
+.icon {
+  color: #bd8b13 !important;
+}
+
+.css-ahj2mt-MuiTypography-root {
+  font-size: 12px !important;
+}
+
+.css-37jdci-MuiTypography-root {
+  font-size: 12px !important;
+}
+
+.section1-footer {
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2%;
+  margin-top: 3%;
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.css-37jdci-MuiTypography-root {
+  padding-bottom: 10px;
+}
+
+@media (max-width: 1000px) {
+  .css-ahj2mt-MuiTypography-root {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5%;
+  }
+}
